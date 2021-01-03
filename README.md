@@ -1,7 +1,7 @@
 # booths-multiplier
 
 # Program Name
-Booth’s 2’s complement number multiplier
+Booth’s 2’s complement number multiplier simulator
 
 # Program Description
 This program performs Booth’s 2’s complement number multiplier by taking 16-bit input for multiplicand and multiplier from the user. It displays the state of each cycle and also the final product.
